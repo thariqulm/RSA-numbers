@@ -4,4 +4,5 @@ Since factoring RSA numbers are hard, this script attempts to store the factors 
 instead of factorizing it by heavy computation we can get the factors from the database itself.
 
 "The more you run this script, the sooner we can get the factors of all RSA numbers"
+
 Note: This program runs only when you are connected to the internet
